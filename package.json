@@ -1,0 +1,9 @@
+{
+  "name": "bowlingjs",
+  "description": "a delightfully fruity coffee varietal",
+  "version": "0.0.1",
+  "devDependencies": {
+    "vows": "^0.7.0"
+  },
+  "main": "bowling.js"
+}
